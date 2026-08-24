@@ -1,4 +1,5 @@
-[nixpkgs]
-pkgs = ["python310", "libxcb", "xorg.libX11", "libGL", "glib"]
+[providers]
+apt = ["libxcb1", "libx11-xcb1", "libgl1-mesa-glx", "libglib2.0-0", "libsm6", "libxext6"]
+
 
 
