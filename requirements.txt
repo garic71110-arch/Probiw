@@ -1,6 +1,7 @@
+opencv-python-headless
 aiogram>=3.0.0
 aiohttp
-deepface
 tf-keras
-opencv-python-headless
+deepface
+
 
