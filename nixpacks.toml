@@ -1,5 +1,5 @@
-[providers]
-apt = ["libxcb1", "libx11-xcb1", "libgl1-mesa-glx", "libglib2.0-0", "libsm6", "libxext6"]
+[nixpkgs]
+pkgs = ["libxcb", "xorg.libX11", "libGL", "glib"]
 
 
 
